@@ -1,0 +1,41 @@
+.wrapper1 {
+    background-color: white;
+    font-family: sans-serif;
+    font-size: small;
+    }
+.title {
+    margin: auto;
+    width: 45%;
+}    
+.wrapper2 {
+    background-color: lightgray;
+    font-family: sans-serif;
+    font-size: small;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.Photo {
+    margin: 50px auto;
+    width: 45%;
+    background-color: white;
+    
+}
+.tfeed {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+}
+#Fotonumber {
+    color: lightgray;
+} 
+img {
+    width: 100%;
+}
+.descrip{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+
